@@ -6,7 +6,7 @@ let mockupData = `[
     {
       "id": 420,
       "lastName": "Schulz",
-      "name": "Dieter",
+      "firstName": "Dieter",
       "sex": "m",
       "eMail": "ds@wasauchimmer.de",
       "dateOfBirth": "18.03.2014",
@@ -38,7 +38,7 @@ let mockupData = `[
     {
       "id": 69,
       "lastName": "Dortmeier",
-      "name": "Peter",
+      "firstName": "Peter",
       "sex": "m",
       "eMail": "pD@wasauchimmer.de",
       "dateOfBirth": "10.08.2010",

@@ -5,7 +5,7 @@ import styles from "./page.module.css";
 import { usePathname, useSearchParams } from 'next/navigation'
 
 
-let sites: string[][] = [["Startseite", "/"], ["Testseite", "/test_page"]];
+let sites: string[][] = [["Startseite", "/"], ["Testseite", "/test_page"] , ["CSV Testseite", "/csv_testpage"]];
 
 function Nav_Menu() {
   const path = usePathname();
