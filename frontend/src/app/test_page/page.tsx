@@ -2,7 +2,7 @@ import Image from "next/image";
 import styles from "../page.module.css";
 import { json } from "stream/consumers";
 import exp from "constants";
-import Layout from "../../../generic_functions/base_layout";
+
 
 
 export default function Home() {
