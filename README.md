@@ -1,4 +1,4 @@
-# SPORTV2
+# SPORTV3
 Managementtool zur Leistsungserfassung von Athleten
 
 # Setup
